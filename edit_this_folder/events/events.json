@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title" : "Barn Dance",
+      "description" : "Every year the Shipman Society hosts a Barn Dance to raise money for charity. A professional Square Dance Caller leads the Society through a night of fun and games.",
+      "date" : "November 11, 2012",
+      "picture_urls" : ["barn_dance_2012_2.jpg" ,"barn_1.jpg"]
+    },
+    {
+      "title" : "Mr. Michigan",
+      "description" : "Alan (’13) was the representative for the Shipman Society at FIMRC’s first ever Mr. Michigan event. The money raised by the event benefitted FIMR (Foundation for International Medical Relief of Children) and their international clinics in Peru and Uganda. He competed against other student groups across campus and sadly didn’t win but we were all proud of him. During the style section, Alan showed off his preparedness for all that Michigan weather could possibly throw at him: ",
+      "date" : "April 13, 2011",
+      "picture_urls" : ["alan.jpg"]
+    }
+
+  ]
+
+}

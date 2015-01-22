@@ -1,0 +1,232 @@
+img.nav-icon { 
+  max-width: 100%; 
+  margin: 0 0 ;
+  margin-top: -1.5em;
+}
+
+body {
+  text-align: center;
+  font-family: "Trebuchet MS", Trebuchet;
+  padding-bottom:300px;
+}
+
+.divider {
+  margin: 50px auto;
+  left: 0;
+  right: 0;
+
+}
+
+.fixed {
+  position: fixed;
+  z-index: 100;
+}
+
+header.fixed {
+  top:10;
+  left:0;
+  right:0;
+}
+
+.title {
+  font-weight: bold;
+  font-style: italic;
+  color: #4A9AB6;
+}
+
+.item { 
+  height: auto;
+  max-height: 550px;
+  max-width: 100%;  
+  display: block;
+
+}
+
+.item img{
+  max-height: 100%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.page-nav {
+  list-style: none;
+  font-style: none;
+  padding-top: 30px;
+  padding-right: 30px;
+  font-size: 150%;
+  text-align: center;
+  text-decoration: none;
+  z-index: 100;
+  background-color: rgba(255,255,255,.7);
+  border-radius: 10px;
+}
+
+.nav-img {
+  width: 15%;
+  max-width: 60px;
+}
+
+.page-nav ul {
+
+}
+
+.page-nav li a:hover {
+  border-bottom: 3px #5BA7C1 solid;
+  text-decoration: none;
+}
+
+.page-nav li {
+  margin: 5px 5px;
+  cursor : pointer;
+}
+
+.page-nav li a {
+  margin: 5px 5px;
+  cursor : pointer;
+  color: grey;
+}
+
+.section-title h1 {
+  font-size: 60px;
+  font-weight: bold;
+  opacity: .6;
+
+}
+
+.event-title {
+  font-size: 40px;
+  color: #FFD41E;
+}
+
+.event-description {
+  font-size: 130%;
+  line-height: 200%;
+  opacity: .8;
+}
+
+.pictures-container {
+  height: auto;
+}
+
+.event-picture-container{
+  margin-bottom: 40px;
+}
+
+
+ul { 
+  list-style: inherit;
+  font-style: inherit;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+#carousel-container {
+  padding-top: 90px;
+}
+
+a {
+  text-decoration: none;
+  color:inherit;
+}
+a:link {
+  text-decoration: none;
+  color:inherit;
+}
+
+.shipman-divider {
+  width: 100%;
+  height: 45px;
+  background-image:url('../img/crossword.png');
+  margin: 100px 0;
+}
+
+.student-container {
+  height: 375px;
+  padding: 15px 15px;
+}
+
+.student-inner {
+  position: relative;
+  padding: 7px 7px;
+  height: 100%;
+  border: 1px #808080 solid;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.student-inner .student-name {
+  height: 160px;
+  line-height: 50px;
+  color: #4A9AB6;
+}
+
+.student-inner .student-name h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.student-inner h1 {
+  opacity: .7;
+  font-size: 28px;
+}
+
+.student-inner .img-container{
+  position: absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  z-index: 10;
+}
+
+.profile-link {
+  height:50px;
+  width: 50px;
+}
+
+.student-inner .img-container img { 
+  border-radius: 8px;
+  height: 100%;
+  width: 100%;
+}
+
+.student-inner .content-container {
+  font-size: 30px;
+  color:#808080;
+}
+
+.content-container .profile-links { 
+  position: absolute;
+  z-index: 4;
+  bottom:5px;
+  right:0px;
+}
+
+.content-container small {
+  color: #FFD41E;
+  font-size: 40%;
+  float: left;
+  line-height: 14px;
+}
+
+body {
+  background-color: blue;
+}
+
+.profile-link img {
+  height: 50px;
+  width: 50px;
+  opacity: .6;
+  cursor: pointer;
+  z-index: 6;
+}
+
+.profile-link img:hover {
+  opacity: 1;
+}
+
+
+
+

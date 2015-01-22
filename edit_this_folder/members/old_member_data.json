@@ -1,0 +1,37 @@
+{ "data" :[
+    {
+      "first": "Andrea",
+      "last" : "Gillespie",
+      "year" : "Senior",
+      "major" : "Political Science, Middle Eastern Studies",
+      "picture_url" : "amgille.png",
+      "links" : {
+        "linkedin" : "www.linkedin.com/pub/andrea-gillespie/48/3b5/8b6/",
+        "email" : "amgille@umich.edu"
+      }
+    },
+    {
+      "first": "Elijah",
+      "last" : "Arons",
+      "year" : "Junior",
+      "major" : "Computer Science",
+      "picture_url" : "eliarons.jpg",
+      "links" : {
+        "linkedin" : "www.linkedin.com/pub/elijah-arons/a3/315/934/",
+        "email" : "eliarons@umich.edu"
+      }
+    },
+    {
+      "first": "Doug",
+      "last" : "Watts",
+      "year" : "Junior",
+      "major" : "Chemical Engineering",
+      "picture_url" : "dwwatts.png",
+      "links" : {
+        "linkedin" : "https://www.linkedin.com/pub/douglas-watts/84/350/7b2",
+        "email" : "dwwatts@umich.edu"
+      }
+    }
+
+  ] 
+}

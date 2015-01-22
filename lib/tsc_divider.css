@@ -1,0 +1,169 @@
+.tsc_divider1 {
+  height: 35px;
+  width: 600px;
+  background: url(../img/tsc_divider1.png) no-repeat scroll transparent;
+  padding:6px;
+}
+
+.tsc_divider1_black {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider1_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+
+.tsc_divider2 {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider2.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider2_black {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider2_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider3 {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider3.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider3_black {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider3_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider4 {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider4.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider4_black {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider4_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+
+.tsc_divider5 {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider5.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider5_black {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider5_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider6 {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider6.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider6_black {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../images/tsc_divider6_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+
+.tsc_divider7 {
+  height: 75px;
+  width: 330px;
+  margin:0px auto;
+  background: url(../images/tsc_divider7.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider7_black {
+  height: 75px;
+  width: 330px;
+  margin:0px auto;
+  background: url(../images/tsc_divider7_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider8 {
+  height: 75px;
+  width: 330px;
+  margin:0px auto;
+  background: url(../images/tsc_divider8.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider8_black {
+  height: 75px;
+  width: 330px;
+  margin:0px auto;
+  background: url(../images/tsc_divider8_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider9 {
+  height: 35px;
+  width: 50px;
+  margin:0px auto;
+  background: url(../images/tsc_divider9.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider9_black {
+  height: 35px;
+  width: 50px;
+  margin:0px auto;
+  background: url(../images/tsc_divider9_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider10 {
+  height: 35px;
+  width: 200px;
+  margin:0px auto;
+  background: url(../images/tsc_divider10.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider10_black {
+  height: 35px;
+  width: 200px;
+  margin:0px auto;
+  background: url(../images/tsc_divider10_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+
+
+.tsc_hrline_silver { background-color: #ddd; margin-top:12px;margin-bottom:12px; height:1px; margin-left: auto;margin-right: auto;}
+.tsc_hrline_gray { background-color: #ccc; margin-top:12px;margin-bottom:12px; height:1px; margin-left: auto;margin-right: auto;}
+.tsc_hrline_black { background-color: #000; margin-top:12px;margin-bottom:12px; height:1px; margin-left: auto;margin-right: auto;}
+.tsc_hrline_red { background-color: #c00; margin-top:12px;margin-bottom:12px; height:1px; margin-left: auto;margin-right: auto;}
+

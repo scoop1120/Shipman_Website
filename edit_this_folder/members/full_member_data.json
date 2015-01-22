@@ -1,0 +1,531 @@
+{ "data" : [
+  {
+    "first":"Shawn ",
+    "last":"Cooper",
+    "major":"Computer Science ",
+    "year":"Junior",
+    "picture_url" : "spcoop.jpg",
+    "links":{
+      "email":"spcoop@umich.edu",
+      "linkedin":"www.linkedin.com/pub/shawn-cooper/63/48a/926/"
+    }
+  },
+  {
+    "first":"Sandy",
+    "last":"Mouch",
+    "major":"Mechanical Engineering and Kinesiology",
+    "year":"Junior",
+    "picture_url" : "mouchsa.jpg",
+    "links":{
+      "email":"mouchsa@umich.edu"
+    }
+  },
+  {
+    "first":"Ajay",
+    "last":"Kolli",
+    "major":"Cellular and Molecular Biology",
+    "year":"Sophomore",
+    "picture_url" : "kolliaj.png",
+    "links":{
+      "email":"kolliaj@umich.edu",
+      "linkedin":"http://www.linkedin.com/pub/ajay-kolli/8b/827/191/"
+    }
+  },
+  {
+    "first":"Hassan",
+    "last":"Abbas",
+    "major":"Nursing",
+    "year":"Sophomore",
+    "picture_url" : "hlabbas",
+    "links":{
+      "email":"hlabbas@umich.edu"
+    }
+  },
+  {
+    "first":"Douglas",
+    "last":"Watts",
+    "major":"Chemical Engineering",
+    "year":"Junior",
+    "picture_url" : "dwwatts.png",
+    "links":{
+      "email":"dwwatts@umich.edu",
+      "linkedin":"https://www.linkedin.com/pub/douglas-watts/84/350/7b2"
+    }
+  },
+  {
+    "first":"Michael",
+    "last":"Bruk",
+    "major":"Industrial and Operations Engineering",
+    "year":"Junior",
+    "picture_url" : "mbruk.png",
+    "links":{
+      "email":"mbruk@umich.edu",
+      "linkedin":"https://www.linkedin.com/pub/michael-bruk/91/413/723"
+    }
+  },
+  {
+    "first":"Emily",
+    "last":"Dahuron",
+    "major":"Art and Design",
+    "year":"Sophomore",
+    "picture_url" : "edahu.jpg",
+    "links":{
+      "email":"edahu@umich.edu"
+    }
+  },
+  {
+    "first":"Jared",
+    "last":"W.",
+    "major":"Undecided",
+    "year":"Freshman",
+    "picture_url" : "jweisenb",
+    "links":{
+      "email":"jweisenb@umich.edu"
+    }
+  },
+  {
+    "first":"Jamie",
+    "last":"Sacksner",
+    "major":"Biopsychology, Cognition, and Neuroscience",
+    "year":"Sophomore",
+    "picture_url" : "sacksner.jpeg"
+  },
+  {
+    "first":"Leo ",
+    "last":"Devota",
+    "major":"Chemical Engineering",
+    "year":"Senior",
+    "picture_url" : "lpdevot",
+    "links":{
+      "email":"lpdevot@umich.edu",
+      "linkedin":"www.linkedin.com/pub/leo-devota/79/92b/580/"
+    }
+  },
+  {
+    "first":"Heather",
+    "last":"Price",
+    "major":"Mathematics Teaching Certificate",
+    "year":"Junior",
+    "picture_url" : "hapr.png",
+    "links":{
+      "email":"hapr@umich.edu"
+    }
+  },
+  {
+    "first":"Andrea",
+    "last":"Gillespie",
+    "major":"Political Science, Middle Eastern Studies",
+    "year":"Senior",
+    "picture_url" : "amgille.png",
+    "links":{
+      "email":"amgille@umich.edu",
+      "linkedin":"www.linkedin.com/pub/andrea-gillespie/48/3b5/8b6/"
+    }
+  },
+  {
+    "first":"Angie",
+    "last":"Wysocki",
+    "major":"Nursing",
+    "year":"Freshman",
+    "picture_url" : "angwysoc.jpeg",
+    "links":{
+      "email":"angwysoc@umich.edu"
+    }
+  },
+  {
+    "first":"Rachel ",
+    "last":"Bloink",
+    "major":"Nursing",
+    "year":"Senior",
+    "picture_url" : "rbloink",
+    "links":{
+      "email":"rbloink@umich.edu"
+    }
+  },
+  {
+    "first":"Dennis",
+    "last":"Kanarsky",
+    "major":"Electrical Engineering ",
+    "year":"Junior",
+    "picture_url" : "kanarsky.jpg",
+    "links":{
+      "email":"kanarsky@umich.edu"
+    }
+  },
+  {
+    "first":"Douglas",
+    "last":"Yang",
+    "major":"Movement Science",
+    "year":"Senior",
+    "picture_url" : "dougyang.jpg",
+    "links":{
+      "email":"dougyang@umich.edu",
+      "linkedin":"https://www.linkedin.com/pub/douglas-yang/a3/b82/4a7"
+    }
+  },
+  {
+    "first":"Elijah",
+    "last":"Arons",
+    "major":"Computer Science ",
+    "year":"Junior",
+    "picture_url" : "eliarons.jpg",
+    "links":{
+      "email":"eliarons@umich.edu",
+      "linkedin":"www.linkedin.com/pub/elijah-arons/a3/315/934/"
+    }
+  },
+  {
+    "first":"Ali",
+    "last":"Nasir",
+    "major":"Arabic, Neuroscience",
+    "year":"Sophomore",
+    "picture_url" : "alinasir.jpg",
+    "links":{
+      "email":"alinasir@umich.edu"
+    }
+  },
+  {
+    "first":"Sam",
+    "last":"Cusimano",
+    "major":"Philosophy",
+    "year":"Junior",
+    "picture_url" : "samfcusi",
+    "links":{
+      "email":"samfcusi@umich.edu"
+    }
+  },
+  {
+    "first":"Elizabeth",
+    "last":"Olin",
+    "major":"Industrial and Operations Engineering",
+    "year":"Senior",
+    "picture_url" : ""
+  },
+  {
+    "first":"Rebecca ",
+    "last":"Cotton",
+    "major":"Ecology and Evolutionary Biology",
+    "year":"Sophomore",
+    "picture_url" : "",
+    "links":{
+      "email":"cottonr@umich.edu"
+    }
+  },
+  {
+    "first":"Nirbhay ",
+    "last":"Jain",
+    "major":"Chemistry, French",
+    "year":"Senior",
+    "picture_url" : "nirbs.jpg",
+    "links":{
+      "email":"nirbs@umich.edu"
+    }
+  },
+  {
+    "first":"Allyson",
+    "last":"Dugan",
+    "major":"Material Science Engineering",
+    "year":"Freshman",
+    "picture_url" : "aidugan.jpg",
+    "links":{
+      "email":"aidugan@umich.edu"
+    }
+  },
+  {
+    "first":"George",
+    "last":"Freigeh",
+    "major":"Cellular and Molecular Biology; Psychology",
+    "year":"Senior",
+    "picture_url" : "gfreigeh.jpg",
+    "links":{
+      "email":"gfreigeh@umich.edu"
+    }
+  },
+  {
+    "first":"Louisa",
+    "last":"Abbott",
+    "major":"Mathematics ",
+    "year":"Freshman",
+    "picture_url" : "lcabbott.jpg",
+    "links":{
+      "email":"lcabbott@umich.edu"
+    }
+  },
+  {
+    "first":"Shadae",
+    "last":"Boakye-Yiadom",
+    "major":"Mechanical Engineering",
+    "year":"Freshman",
+    "picture_url" : "",
+    "links":{
+      "email":"shadae@umich.edu",
+      "linkedin":"http://www.linkedin.com/in/shadaeby/"
+    }
+  },
+  {
+    "first":"Anna",
+    "last":"Stone",
+    "major":"Cognitive Science -- Language and Cognition",
+    "year":"Sophomore",
+    "picture_url" : "",
+    "links":{
+      "email":"stoneae@umich.edu"
+    }
+  },
+  {
+    "first":"Bryant",
+    "last":"Vergara",
+    "major":"Cellular and Molecular Biology; Comp Sci",
+    "year":"Freshman",
+    "picture_url" : "",
+    "links":{
+      "email":"bvergara@umich.edu"
+    }
+  },
+  {
+    "first":"Aiman",
+    "last":"Faruqi",
+    "major":"Biochemistry ",
+    "year":"Sophomore",
+    "picture_url" : "afaruqi.jpeg",
+    "links":{
+      "email":"afaruqi@umich.edu"
+    }
+  },
+  {
+    "first":"Freida",
+    "last":"Blostein",
+    "major":"Evolutionary Anthropology",
+    "year":"Junior",
+    "picture_url" : "blostein.jpeg",
+    "links":{
+      "email":"blostein@umich.edu",
+      "linkedin":"www.linkedin.com/pub/freida-blostein/70/159/b71/"
+    }
+  },
+  {
+    "first":"Mia",
+    "last":"Licciardi",
+    "major":"English",
+    "year":"Sophomore",
+    "picture_url" : "mialicc.jpg",
+    "links":{
+      "email":"mialicc@umich.edu"
+    }
+  },
+  {
+    "first":"Gina",
+    "last":"McGauley",
+    "major":"Construction Engineering and Management",
+    "year":"Masters",
+    "picture_url" : "ginamcg.jpg",
+    "links":{
+      "email":"ginamcg@umich.edu",
+      "linkedin":"www.linkedin.com/pub/gina-mcgauley/3b/2b0/b9a/"
+    }
+  },
+  {
+    "first":"David",
+    "last":"Dohrenwend",
+    "major":"Mechanical Engineering",
+    "year":"Sophomore",
+    "picture_url" : "",
+    "links":{
+      "email":"dutchdoh@umich.edu"
+    }
+  },
+  {
+    "first":"Kai",
+    "last":"Norden",
+    "major":"Business & Program in the Environment",
+    "year":"Sophomore",
+    "picture_url" : "",
+    "links":{
+      "email":"knorden@umich.edu",
+      "linkedin":"www.linkedin.com/pub/kai-norden/96/784/422/"
+    }
+  },
+  {
+    "first":"Matt ",
+    "last":"Thimm",
+    "major":"Cellular and Molecular Biology",
+    "year":"Senior",
+    "picture_url" : "mthimm.png",
+    "links":{
+      "email":"mthimm@umich.edu"
+    }
+  },
+  {
+    "first":"Nicole",
+    "last":"Rojas",
+    "major":"Chemical Engineering",
+    "year":"Junior",
+    "picture_url" : "nrojas.jpeg",
+    "links":{
+      "email":"nrojas@umich.edu"
+    }
+  },
+  {
+    "first":"Sunny",
+    "last":"Singh",
+    "major":"Cellular and Molecular Biology",
+    "year":"Senior",
+    "picture_url" : "sunbun.jpg",
+    "links":{
+      "email":"sunbun@umich.edu"
+    }
+  },
+  {
+    "first":"Adrian",
+    "last":"Kim",
+    "major":"Computer Science ",
+    "year":"Sophomore",
+    "picture_url" : "",
+    "links":{
+      "email":"adrikim@umich.edu"
+    }
+  },
+  {
+    "first":"Shaylyn",
+    "last":"Austin",
+    "major":"Undecided",
+    "year":"Freshman",
+    "picture_url" : "shaylyna.jpg",
+    "links":{
+      "email":"shaylyna@umich.edu"
+    }
+  },
+  {
+    "first":"Preeta ",
+    "last":"Gupta",
+    "major":"Cellular and Molecular Biology",
+    "year":"Senior",
+    "picture_url" : "prgupta.jpg",
+    "links":{
+      "email":"prgupta@umich.edu"
+    }
+  },
+  {
+    "first":"Kate ",
+    "last":"Rojas",
+    "major":"Chemical Engineering",
+    "year":"Freshman",
+    "picture_url" : "rojasc.jpg",
+    "links":{
+      "email":"rojasc@umich.edu"
+    }
+  },
+  {
+    "first":"Tochukwu",
+    "last":"Ndukwe",
+    "major":"Movement Science",
+    "year":"Sophomore",
+    "picture_url" : "tndukwe.jpg",
+    "links":{
+      "email":"tndukwe@umich.edu",
+      "linkedin":"http://www.linkedin.com/pub/tochukwu-ndukwe/75/381/623/"
+    }
+  },
+  {
+    "first":"Jennifer",
+    "last":"Feutz",
+    "major":"Nursing",
+    "year":"Freshman",
+    "picture_url" : "jfeutz.jpg",
+    "links":{
+      "email":"jfeutz@umich.edu"
+    }
+  },
+  {
+    "first":"Sounak",
+    "last":"Das",
+    "major":"Voice Performance and Computer Science",
+    "year":"Freshman",
+    "picture_url" : "",
+    "links":{
+      "email":"dasdas@umich.edu"
+    }
+  },
+  {
+    "first":"Amy",
+    "last":"Edwards",
+    "major":"Astronomy & Astrophysics, Interdisiplinary Physics",
+    "year":"Senior",
+    "picture_url" : "amyeds.jpg",
+    "links":{
+      "email":"amyeds@umich.edu"
+    }
+  },
+  {
+    "first":"Aidan",
+    "last":"Parker",
+    "major":"Economics; Mathematics",
+    "year":"Freshman",
+    "picture_url" : "",
+    "links":{
+      "email":"aiparker@umich.edu"
+    }
+  },
+  {
+    "first":"Sam",
+    "last":"Rohrer",
+    "major":"Electrical Engineering ",
+    "year":"Freshman",
+    "picture_url" : "rohrer.jpg",
+    "links":{
+      "email":"rohrer@umich.edu"
+    }
+  },
+  {
+    "first":"Megan",
+    "last":"Mulholland",
+    "major":"Art & Design",
+    "year":"Senior",
+    "picture_url" : "megmulsy.jpg",
+    "links":{
+      "email":"megmulsy@umich.edu",
+      "linkedin":"meganmulholland.squarespace.com"
+    }
+  },
+  {
+    "first":"Joseph",
+    "last":"Richey",
+    "major":"Mathematics & Computer Science",
+    "year":"Junior",
+    "picture_url" : "",
+    "links":{
+      "email":"josephlr@umich.edu",
+      "linkedin":"www.linkedin.com/pub/joseph-richey/57/53a/479/"
+    }
+  },
+  {
+    "first":"Mikaylaj",
+    "last":"Johnson",
+    "major":"Nursing",
+    "year":"Freshman",
+    "picture_url" : "mikaylaj.png",
+    "links":{
+      "email":"mikaylaj@umich.edu"
+    }
+  },
+  {
+    "first":"Joseph",
+    "last":"Iovino",
+    "major":"Art & Design",
+    "year":"Freshman",
+    "picture_url" : "",
+    "links":{
+      "email":"jiovino@umich.edu"
+    }
+  },
+  {
+    "first":"Dominic",
+    "last":"Calabrese",
+    "major":"Electrical Engineering ",
+    "year":"Senior",
+    "picture_url" : "",
+    "links":{
+      "email":"dcalabre@umich.edu"
+    }
+  }
+] }

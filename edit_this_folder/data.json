@@ -1,0 +1,41 @@
+{
+  "landing_slides" : [
+    {
+      "img_url": "barn_dance_2012_1.jpg",
+      "title": "Barn Dance 2012 picture 1",
+      "description" : " This is the description"
+    },
+    {
+      "img_url": "barn_dance_2012_2.jpg",
+      "title": "Barn Dance 2012 picture 2",
+      "description" : " This is the description"
+    },
+    {
+      "img_url": "dress_as_shipman_2.jpg",
+      "title": " Dress as Shipman Dinner 2012",
+      "description" : " This is the description"
+
+    },
+    {
+      "img_url": "dress_as_shipman_3.jpg",
+      "title": " Dress as Shipman Dinner 2012",
+      "description" : " This is the description"
+
+    },
+    {
+      "img_url": "barn_dance_2013_1.jpg",
+      "title": "Barn Dance from 2013",
+      "description" : " This is the description"
+
+    },
+    {
+      "img_url": "barn_dance_2013_3.jpg",
+      "title": "Barn Dance from 2013",
+      "description" : " This is the description"
+
+    }
+  ],
+  "landing_title": "Welcome to the Home of the Shipman Society",
+  "landing_description": "The Shipman Society was founded in 1996 for recipients of the Sidney J. and Irene Shipman Scholarship for incoming first-year undergraduates at the University of Michigan, Ann Arbor. The society, in its dedication to scholarship, leadership, and service, holds bi- weekly meetings and organizes social and community service events, as well as Shipman Weekend, an introduction and interview process for Shipman Scholarship nominees held in March."
+
+}
