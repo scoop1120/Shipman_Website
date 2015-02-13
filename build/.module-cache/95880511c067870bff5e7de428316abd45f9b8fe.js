@@ -166,14 +166,6 @@ var Student = React.createClass({displayName: "Student",
                 this.props.data.year
               )
             ), 
-            React.createElement("div", {className: "col-sm-12 text-center student-hometown"}, 
-              React.createElement("small", null, 
-                "Hometown"
-              ), 
-              React.createElement("h1", null, 
-                this.props.data.hometown
-              )
-            ), 
             React.createElement("div", {className: "col-sm-12 profile-links"}, 
               links
             )
@@ -185,15 +177,15 @@ var Student = React.createClass({displayName: "Student",
   componentDidMount : function(){
     var student = $(this.getDOMNode());
     student.hover(function() {
-      student.find( '.profile_picture' ).animate( {height: "0%", width: "0%"}, 300, function(){
-          //student.find('.profile-links').css('z-index', '15');
+      student.find( '.profile_picture' ).animate( {height: 150, width: 150, "z-index": 4}, 300, function(){
+          student.find('.profile-links').css('z-index', '15');
       });
 
     }, function() {
-      //student.find('.profile-links').css('z-index', '5');
+      student.find('.profile-links').css('z-index', '5');
 
       window.setTimeout(function(){
-        //student.find('.profile-links').css('z-index', '5');
+        student.find('.profile-links').css('z-index', '5');
         student.find('.profile_picture').animate({height: "100%", width: "100%", "z-index":10}, 300);
       }, 200)
 

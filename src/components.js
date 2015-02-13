@@ -145,7 +145,7 @@ var Student = React.createClass({
             <img src={url}  className="img-responsive profile_picture"/>
           </div>
           <div className="content-container row">
-            <div className="col-sm-7 col-sm-offset-5 student-name">
+            <div className="col-sm-12 text-center student-name">
               <h2>
                 {this.props.data.first}<br />{this.props.data.last}
               </h2>
@@ -166,6 +166,14 @@ var Student = React.createClass({
                 {this.props.data.year}
               </h1>
             </div>
+            <div className="col-sm-12 text-center student-hometown">
+              <small>
+                Hometown
+              </small>
+              <h1>
+                {this.props.data.hometown}
+              </h1>
+            </div>
             <div className="col-sm-12 profile-links">
               {links}
             </div>
@@ -177,15 +185,15 @@ var Student = React.createClass({
   componentDidMount : function(){
     var student = $(this.getDOMNode());
     student.hover(function() {
-      student.find( '.profile_picture' ).animate( {height: 150, width: 150, "z-index": 4}, 300, function(){
-          student.find('.profile-links').css('z-index', '15');
+      student.find( '.profile_picture' ).animate( {height: "0%", width: "0%"}, 300, function(){
+          //student.find('.profile-links').css('z-index', '15');
       });
 
     }, function() {
-      student.find('.profile-links').css('z-index', '5');
+      //student.find('.profile-links').css('z-index', '5');
 
       window.setTimeout(function(){
-        student.find('.profile-links').css('z-index', '5');
+        //student.find('.profile-links').css('z-index', '5');
         student.find('.profile_picture').animate({height: "100%", width: "100%", "z-index":10}, 300);
       }, 200)
 

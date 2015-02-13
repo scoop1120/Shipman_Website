@@ -2,6 +2,36 @@
   "events": [
     {
       "title" : "Barn Dance",
+      "description" : "The Shipman Society had an exciting night of dancing at our annual fall barn dance! The proceeds of barn dance were donated to the Ronald McDonald House of Ann Arbor.",
+      "date" : "October 17, 2014",
+      "picture_urls" : ["BarnDance2014_1.jpg" ,"BarnDance2014_2.jpg"]
+    },
+    {
+      "title" : "Welcome Back BBQ",
+      "description" : "Members of the Shipman Society enjoyed burgers and snacks as they caught up with each other and talked about their summers. At our first event of the semester, everyone met up with new and old members of their Shipman families.",
+      "date" : "September 14, 2014",
+      "picture_urls" : ["BBQ.jpg" ]
+    },
+    {
+      "title" : "ASB (Alternative Spring Break) 2014: Toronto",
+      "description" : "For 2014 Alternative Spring Break, the Shipman Society travelled to Toronto, Ontario. Three days were spent volunteering with the local Habitat for Humanity. We worked on four houses, painting walls, laying floorboards, and adding floor and ceiling moldings. The next two days were spent with a local food bank, collecting food donations from the Canadian Restaurant and Food Association Show. In total, we managed to help collect over 29,000 pounds of food for the needy. Toronto wasn't all work, however. We enjoyed the local restaurants while immersing ourselves in Canadian culture. We watched hockey and curling, and discovered the wonderful Canadian delicacy 'poutine.' We toured the University of Toronto campus, and spent a morning in the vibrant Chinatown district in downtown Toronto. The trip was a success. Everyone had a lot of fun, and we were able to do volunteer work that positively and decisively impacted others.",
+      "date" : "Spring 2014",
+      "picture_urls" : ["toronto_1.jpg" ,"toronto_habitat_group.jpg", "toronto_square.jpg"]
+    },
+    {
+      "title" : "Charity Ball",
+      "description" : "The Shipman Society partnered with two other student organizations, Rotaract and Appreciate+Reciprocate, for our annual charity ball. Members of the Shipman Society performed an impressive musical show to go along with the night's Great Gatsby theme. All proceeds of the event were donated to the University's scholarship fund.",
+      "date" : "April 4, 2014",
+      "picture_urls" : ["CharityBall1.jpg" ,"CharityBall2.jpg" ,"CharityBall3.jpg", "CharityBall4.jpg" ]
+    },
+    {
+      "title" : "ASB (Alternative Spring Break) 2013: Nashville",
+      "description" : "In 2013, a group of Shipman travelled to Nashville, Tennessee for the annual Alternative Spring Break trip. While there, we volunteered at Second Harvest of Middle Tennessee, a local food bank that salvages food that would be thrown away prematurely and instead gives it to those in need. We also helped sort food donations from numerous local grocery stores and restaurants. Two days were also spent helping pack lunches for children who need free or reduced lunches at school. These children often don't have food to eat at home on the weekends, and we helped Second Harvest to provide food for these children while they are away from school. While we worked very hard, Nashville wasn't complete without some fun and games along the way. From horseback riding to line dancing, the Grand Ole Opry Hotel to shopping for cowboy boots, we were able to come away with a full Nashville experience. We also had the pleasure of touring the State Capitol and the beautiful Vanderbilt campus. To finish up the wonderful week, we toured Mammoth Cave National Park in Kentucky before heading home to Ann Arbor for classes on Monday. It was a great chance to bond with fellow Shipman, as well as an opportunity to give back to those less fortunate than us.",
+      "date" : "Spring 2013",
+      "picture_urls" : ["nashville_1.jpg" ,"nashville_2.jpg" ,"nashville_3.jpg", "nashville_4.jpg" ]
+    },
+    {
+      "title" : "Barn Dance",
       "description" : "Every year the Shipman Society hosts a Barn Dance to raise money for charity. A professional Square Dance Caller leads the Society through a night of fun and games.",
       "date" : "November 11, 2012",
       "picture_urls" : ["barn_dance_2012_2.jpg" ,"barn_1.jpg"]

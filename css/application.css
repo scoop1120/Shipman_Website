@@ -14,7 +14,6 @@ body {
   margin: 50px auto;
   left: 0;
   right: 0;
-
 }
 
 .fixed {
@@ -83,7 +82,7 @@ header.fixed {
 .page-nav li a {
   margin: 5px 5px;
   cursor : pointer;
-  color: grey;
+  color: gray;
 }
 
 .section-title h1 {
@@ -157,7 +156,7 @@ a:link {
 }
 
 .student-inner .student-name {
-  height: 160px;
+  height: 115px;
   line-height: 50px;
   color: #4A9AB6;
 }
@@ -169,7 +168,8 @@ a:link {
 
 .student-inner h1 {
   opacity: .7;
-  font-size: 28px;
+  font-size: 24px;
+  margin-top: 10px;
 }
 
 .student-inner .img-container{

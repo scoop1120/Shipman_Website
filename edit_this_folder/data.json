@@ -1,36 +1,36 @@
 {
   "landing_slides" : [
     {
-      "img_url": "barn_dance_2012_1.jpg",
-      "title": "Barn Dance 2012 picture 1",
+      "img_url": "landing_1.jpg",
+      "title": "ASB in Toronto",
       "description" : " This is the description"
     },
     {
-      "img_url": "barn_dance_2012_2.jpg",
-      "title": "Barn Dance 2012 picture 2",
+      "img_url": "landing_2.jpg",
+      "title": "Barn Dance 2012",
       "description" : " This is the description"
     },
     {
-      "img_url": "dress_as_shipman_2.jpg",
-      "title": " Dress as Shipman Dinner 2012",
-      "description" : " This is the description"
-
-    },
-    {
-      "img_url": "dress_as_shipman_3.jpg",
-      "title": " Dress as Shipman Dinner 2012",
+      "img_url": "landing_3.jpg",
+      "title": " ASB in Nashville",
       "description" : " This is the description"
 
     },
     {
-      "img_url": "barn_dance_2013_1.jpg",
-      "title": "Barn Dance from 2013",
+      "img_url": "landing_4.jpg",
+      "title": " ASB in Nashville",
       "description" : " This is the description"
 
     },
     {
-      "img_url": "barn_dance_2013_3.jpg",
-      "title": "Barn Dance from 2013",
+      "img_url": "landing_5.jpg",
+      "title": "ASB in Nashville",
+      "description" : " This is the description"
+
+    },
+    {
+      "img_url": "landing_6.jpg",
+      "title": "Provost Dinner",
       "description" : " This is the description"
 
     }

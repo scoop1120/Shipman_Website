@@ -166,14 +166,6 @@ var Student = React.createClass({displayName: "Student",
                 this.props.data.year
               )
             ), 
-            React.createElement("div", {className: "col-sm-12 text-center student-hometown"}, 
-              React.createElement("small", null, 
-                "Hometown"
-              ), 
-              React.createElement("h1", null, 
-                this.props.data.hometown
-              )
-            ), 
             React.createElement("div", {className: "col-sm-12 profile-links"}, 
               links
             )
