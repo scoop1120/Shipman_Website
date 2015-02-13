@@ -186,11 +186,11 @@ var Student = React.createClass({
     var student = $(this.getDOMNode());
     student.hover(function() {
       student.find( '.profile_picture' ).animate( {height: "0%", width: "0%"}, 300, function(){
-          //student.find('.profile-links').css('z-index', '15');
       });
+      student.find('.profile-links').css('z-index', '11');
 
     }, function() {
-      //student.find('.profile-links').css('z-index', '5');
+      student.find('.profile-links').css('z-index', '9');
 
       window.setTimeout(function(){
         //student.find('.profile-links').css('z-index', '5');
